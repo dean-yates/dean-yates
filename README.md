@@ -11,6 +11,6 @@ Most of my work sits where advertising, product data and AI-assisted operations 
 **Currently building**
 
 - [Run The Numbers®](https://rtn.digital) - specialist paid search for UK and European businesses
-- [SKULayer](https://skulayer.com) — safer product feed optimisation, built for people and their AI assistants
+- [SKULayer](https://skulayer.com) - safer product feed optimisation, built for people and their AI agents
 
 [Website](https://deanyates.co.uk) · [Writing](https://deanyates.co.uk/writing/) · [LinkedIn](https://www.linkedin.com/in/dean-yates/)
