@@ -6,7 +6,7 @@ I started as an engineer in the Royal Navy, working on Harrier jets, then spent 
 
 I'm also building [SKULayer](https://skulayer.com), an agent-ready product data layer for ecommerce. It audits and improves product feeds for Google Shopping and Meta, with every change previewed before it goes live.
 
-Most of my work sits where advertising, product data and AI-assisted operations meet. This account is for my personal work and the things I choose to build in public.
+Most of my work sits where advertising, product data and AI-assisted operations meet.
 
 **Currently building**
 
